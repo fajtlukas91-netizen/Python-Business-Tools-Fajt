@@ -18,7 +18,7 @@ class Program
         int zbytek = vejce % velikostPlata;
 
         // 3. VÝPIS VÝSLEDKU
-        // Používáme f-stringu podobný zápis, ale s $ před uvozovkami
+        
         Console.WriteLine($"Máš celkem {vejce} vajec.");
         Console.WriteLine($"Naplníš {pocetPlat} plat a zbyde ti {zbytek} vajec.");
         
