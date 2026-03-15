@@ -12,7 +12,7 @@
 | `ai_marketing_manager.py` | Automated social media content planner with AI simulation. | Automatický plánovač obsahu na sociální sítě s AI simulací. |
 | `auto_prospector.py` | Business outreach tool for personalized client messaging. | Nástroj pro automatizované a personalizované oslovování klientů. |
 | `pancake_calculator.py` | Simple math logic for resource distribution. | Jednoduchá logika pro rozdělování surovin/prostředků. |
-| `egg_carton_calc.py` | Inventory management logic using modulo operators. | Logika pro skladové hospodářství a balení produktů. |
+| `egg_carton_calculator.py` | Inventory management logic using modulo operators. | Logika pro skladové hospodářství a balení produktů. |
 
 ---
 
